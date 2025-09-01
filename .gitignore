@@ -1,0 +1,26 @@
+# macOS artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor settings and swaps
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+.cache/
+
+# Environment files
+.env
+.env.*
+
+# Homebrew
+Brewfile.lock.json
+*.bottle*.tar.gz
