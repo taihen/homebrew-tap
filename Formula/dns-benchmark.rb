@@ -1,8 +1,8 @@
 class DnsBenchmark < Formula
   desc "DNS benchmark tool that tests DNS resolver performance across multiple protocols"
   homepage "https://github.com/taihen/dns-benchmark"
-  url "https://github.com/taihen/dns-benchmark/archive/refs/tags/v1.9.4.tar.gz"
-  sha256 "2af4efda00f24b8444e48e209515871af627740da6b89982d62d0346bca1ed97"
+  url "https://github.com/taihen/dns-benchmark/archive/refs/tags/v1.9.5.tar.gz"
+  sha256 "e448d442d4bde55bdde08450542d2881b2026b9b954a1a730b468a4a639bf371"
   license "MIT"
   head "https://github.com/taihen/dns-benchmark.git", branch: "main"
 
